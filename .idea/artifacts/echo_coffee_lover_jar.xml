@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="echo_coffee_lover:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/echo_coffee_lover_jar</output-path>
+    <root id="archive" name="echo_coffee_lover.jar">
+      <element id="module-output" name="echo_coffee_lover" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/telegrambots-3.5-jar-with-dependencies.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
